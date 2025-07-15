@@ -1,4 +1,4 @@
-# 📝 TJM Auto Data Entry Bot
+# 📝 Auto Data Entry Bot
 
 A Python automation script that fetches blog posts from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/guide/) and types them into Notepad, then saves each post as a `.txt` file on the user's Desktop under a folder named `tjm-project`.
 
